@@ -16,4 +16,3 @@ __Ideal School and College.__
 
 ## Technical Skills
 `git` `github` `vi` `Bash` `C` `C++` `Java` `javascript` `R` `Unity` `Android Studio` `Arduino` `Linux` `Windows` `MacOS`
-
