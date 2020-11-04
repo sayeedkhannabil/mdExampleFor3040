@@ -11,6 +11,7 @@ The purpose of this guide is to show how to format a resume written in Markdown 
 ## Prerequisites
 
 Before starting, there are few prerequisites that needs to be fulfilled.
+
 1. A  Markdown formatted resume.
 1. GitHub account.
 1. Idea about Markdown syntax
@@ -24,5 +25,6 @@ Having a basic knowledge of Markdown syntax is necessary to edit the resume in t
 ## Instructions
 
 * ### Creating GitHub Repository
-1. Click the '+' sign in the upper-right corner of the GitHub home page and select 'New repository'.
+
+1. Click the '+' sign in the upper-right corner of the GitHub home page and select 'New repository'. ![New Repository](https://github.com/sayeedkhannabil/mdExampleFor3040/blob/main/images/newRepo.png?raw=true)
 2. 
